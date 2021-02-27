@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="https://raw.githubusercontent.com/guilhermecapitao/nlw04-moveit-web/206d2e078394ca207037c0a86a976a0c8a5e6257/.github/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="./public/video.gif" />
 </h1>
 
 <p align="center">
