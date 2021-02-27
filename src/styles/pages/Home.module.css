@@ -1,6 +1,6 @@
-.container{
+.container {
   height: 100vh;
-  max-width: 992px;
+  max-width: 998px;
   margin: 0 auto;
   padding: 2.5rem 2rem;
 
@@ -8,10 +8,11 @@
   flex-direction: column;
 }
 
-.container section{
+.container section {
   flex: 1;
+
   display: grid;
-  grid-template-columns: 1fr 1fr; /* está dizendo que teremos duas colunas dentro da section*/
+  grid-template-columns: 1fr 1fr;
   gap: 6.25rem;
   align-content: center;
 }

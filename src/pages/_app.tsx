@@ -1,15 +1,10 @@
-import '../styles/global.css';
-import { ChallengesContext, ChallengesProvider } from '../contexts/ChallengesContext';
-import { useState } from 'react';
+import React from 'react';
+import { ChallengesProvider } from '../contexts/ChallengeContexts';
 
+import '../styles/global.css';
 
 function MyApp({ Component, pageProps }) {
-
-  return (
-    <ChallengesProvider>
-      <Component {...pageProps} />
-      </ChallengesProvider>
-  ) 
+  return <Component {...pageProps} />;
 }
 
-export default MyApp
+export default MyApp;
