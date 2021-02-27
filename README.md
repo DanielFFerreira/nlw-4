@@ -24,8 +24,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚧 Site em construção
-- Aguarde para novos resultados
+## 🚧 Link do site
+[Acesse por aqui](https://moveit-beta-eight.vercel.app/)
 ## 🚀 Começando
 
 Clone o projeto e acesse a pasta
